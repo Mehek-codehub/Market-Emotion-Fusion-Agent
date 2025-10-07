@@ -1,0 +1,9 @@
+yfinance
+transformers
+torch
+pandas
+matplotlib
+beautifulsoup4
+requests
+openai
+sentencepiece
