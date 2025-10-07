@@ -29,9 +29,3 @@ Market Emotion Score: {'Positive': 0.25, 'Neutral': 0.40, 'Negative': 0.35}
 Fused Market Fear Score: 0.62
 Market Insight Report: "High market fear detected in AAPL due to rising volatility and negative news sentiment. Investors should monitor short-term risk."
 
-
-## 💻 How to Run
-1. Clone the repository:
-```bash
-git clone https://github.com/Mehek-codehub/Market-Emotion-Fusion-Agent.git
-cd Market-Emotion-Fusion-Agent
